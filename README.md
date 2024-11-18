@@ -1,6 +1,6 @@
 # BPMN Sales Process System
 
-Un système de gestion des processus de vente basé sur BPMN, développé avec Laravel Par ZAZ.
+Un système de gestion des processus de vente basé sur BPMN, développé avec Laravel Par ACHAIRE ZOGO.
 
 ## 🚀 Fonctionnalités
 
@@ -115,7 +115,7 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de 
 
 ## 👥 Auteurs
 
-- [Votre Nom](https://github.com/votre-username)
+- [ACHAIRE ZOGO](https://github.com/Achaire-Zogo)
 
 ## 🙏 Remerciements
 
